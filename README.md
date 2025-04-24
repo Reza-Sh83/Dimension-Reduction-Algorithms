@@ -50,7 +50,7 @@ Each dataset is selected based on its suitability for demonstrating a specific m
 ## Output
 For each dataset, the script generates a figure (`comparison_<dataset>.png`) that visualizes the data using all six methods side-by-side. These visualizations help in assessing the local/global structure preservation, linearity, and clustering capability of each technique.
 Example output:
-[!UMAP Visualization](comparison_Digits.png)
+<img src="comparison_Digits.png" width="450">
 
 ## Contributions
 You can contribute by:
